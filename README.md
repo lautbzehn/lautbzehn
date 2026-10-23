@@ -32,6 +32,7 @@ I direct AI coding agents as the engineering team: I write the methodology, set 
   <img alt="Claude" src="https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-1c1917?style=flat-square&logo=anthropic&logoColor=d97757">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b">
   <img alt="React" src="https://img.shields.io/badge/React-1c1917?style=flat-square&logo=react&logoColor=61dafb">
   <img alt="Astro" src="https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare_Workers_·_D1_·_Durable_Objects-f38020?style=flat-square&logo=cloudflare&logoColor=white">
