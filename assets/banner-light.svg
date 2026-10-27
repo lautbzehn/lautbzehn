@@ -19,7 +19,7 @@
 <g transform="translate(64 58)">
   <g fill="none" stroke="#1c1917" stroke-width="2.6" stroke-linecap="round" transform="scale(1.25)"><path d="M3 21c7-.6 12.5-4.6 16-11"/><path d="M6 25.5c7.8-.6 14-4.8 18-12"/><path d="M11 29.5c6.5-.7 11.6-4.2 15-10"/></g>
   <circle class="sun" cx="31.9" cy="8.1" r="4.6" fill="#c2410c"/>
-  <text x="56" y="27" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="2.4" fill="#57534e">DAN WEST · AI STRATEGY &amp; ADOPTION LEADER</text>
+  <text x="56" y="27" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="2.4" fill="#57534e">DAN WEST · AI STRATEGY &amp; OPERATIONS LEADER</text>
 </g>
 <text x="64" y="172" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.6" fill="#1c1917"><tspan fill="#1c1917">Pilot </tspan><tspan fill="#c2410c">to production.</tspan></text>
 <text x="66" y="220" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#57534e">Taking good AI ideas all the way to the people who use them.</text>

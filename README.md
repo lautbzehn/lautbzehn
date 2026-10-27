@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Dan West, AI strategy and adoption leader. Pilot to production. Nearly 20 years in IT; I build and test the AI I advise on." src="assets/banner-light.svg">
+  <img alt="Dan West, AI strategy and operations leader. Pilot to production. Nearly 20 years in IT; I build and test the AI I advise on." src="assets/banner-light.svg">
 </picture>
 
 ### Hi, I'm Dan.
@@ -46,4 +46,4 @@ MIT Professional Education, *Applied Generative AI for Digital Transformation* �
 
 ### Say hello
 
-[LinkedIn](https://www.linkedin.com/in/dan-w-21b8a561/) · hello@icarianforge.com · [icarianforge.com](https://www.icarianforge.com)
+[LinkedIn](https://www.linkedin.com/in/dan-w-21b8a561/) · [PyPI](https://pypi.org/project/temper-evals/) · hello@icarianforge.com · [icarianforge.com](https://www.icarianforge.com)
