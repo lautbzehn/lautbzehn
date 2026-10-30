@@ -11,7 +11,8 @@ I've spent nearly 20 years in IT watching good technology fail for boring reason
 
 | | | |
 |---|---|---|
-| **[Forge AI Solution Navigator](https://github.com/lautbzehn/ai-solution-navigator)** | A product manager's workspace for taking enterprise AI from pilot to production, with proof. Eight stages grounded in ISO/IEC 22989, NIST AI RMF, and Stage-Gate, with gatekeepers who decide Go, Hold, or Stop. | [Try it](https://navigator.icarianforge.com) |
+| **[Forge Navigator](https://github.com/lautbzehn/ai-solution-navigator)** | A product manager's workspace for taking enterprise AI from pilot to production, with proof. Eight stages grounded in ISO/IEC 22989, NIST AI RMF, and Stage-Gate, with gatekeepers who decide Go, Hold, or Stop, and evidence that only counts once a second person approves it. | [Try it](https://navigator.icarianforge.com) |
+| **[Talk Me Out of It](https://github.com/lautbzehn/talk-me-out-of-it)** | A council of AI agents argues about the gadget you want, then rules: Buy, Wait 30 days, or Skip. The agent system is hand-written Python on a free local model, with no agent framework: the orchestrator, tools, structured output, guardrails, tracing, and an evaluation harness. The model judges; the code calculates. Total spend: $0. | [Watch a debate](https://talk.icarianforge.com) |
 | **[Temper](https://github.com/lautbzehn/temper)** | A Python package that tests AI features the way you test code. It runs each case several times, grades every answer, keeps an honest record of cost and failures, and ends in a plain-English verdict on whether a prompt or model change is safe to ship. On PyPI as `temper-evals`. | [See the verdict](https://temper.icarianforge.com) · [PyPI](https://pypi.org/project/temper-evals/) |
 | **[The Unlisted](https://github.com/lautbzehn/the-unlisted)** | A hand-picked guide to independent food and drink. An AI research pipeline screened 17,506 venues; a person reviewed every one of the 253 places that made it, for about $70 of research. | [Open the guide](https://unlisted.icarianforge.com) |
 | **[The Family Album](https://github.com/lautbzehn/the-family-album)** | A family's handwritten album, nearly a century old, read, translated and researched with Claude into a bilingual book. Published only in anonymized form, with a privacy guard in CI. | [Try the reader](https://www.icarianforge.com/work/the-album/book/) |
@@ -34,6 +35,7 @@ I direct AI coding agents as the engineering team: I write the methodology, set 
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-1c1917?style=flat-square&logo=anthropic&logoColor=d97757">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-1c1917?style=flat-square&logo=ollama&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-1c1917?style=flat-square&logo=react&logoColor=61dafb">
   <img alt="Astro" src="https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare_Workers_·_D1_·_Durable_Objects-f38020?style=flat-square&logo=cloudflare&logoColor=white">
